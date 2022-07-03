@@ -3,14 +3,15 @@
 - 해당 템플릿은 `이론과제`를 제출할 때 사용하는 과제를 말합니다.
 - 제목은 Theory-Typescript 처럼 강의 내용이 무엇인지 알 수 있도록 지정해줍니다.
 
-
 ----------
 # 과제
 ## 설명
 타입스크립트 입문 강의 Lect 2까지 듣기 (https://www.inflearn.com/course/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%85%EB%AC%B8)
 
 ## 인증
-날짜와 시간, 수강 진도율, 강의명이 보이도록 캡쳐하여 사진을 올려주세요
+```
+// 날짜와 시간, 수강 진도율, 강의명이 보이도록 캡쳐하여 사진을 올려주세요
+```
 ![image](https://user-images.githubusercontent.com/48820696/177041730-a3e893b6-5fa2-4d13-ba52-c322083b1a57.png)
 
 
