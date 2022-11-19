@@ -36,13 +36,8 @@
 ### 📝 짬공부(실습) 📝
 #### - 목록
  * 1주차 : 티라노사우르스 게임 만들기 (🐯, 🐵, 👻, 🦉)
-  <br>
-  (2주차 이후는 팀원간의 협의를 거쳐 타입스크립트를 공부하였고, 이후론 Alcoholic 프로젝트를 시작하였습니다.)
+<br>
+(2주차 이후는 팀원간의 협의를 거쳐 개별적으로 타입스크립트를 공부하되 서로 진행상황을 체크하기로 하였고, 타입스크립트 공부와 함께 Alcoholic 프로젝트를 시작해 이후엔 Alcoholic 프로젝트만 하게 되었습니다. -><a href="https://github.com/TRTBCop/Alcoholic-frontend">Alcoholic Project</a>)
 <br>
 
-
-### 🎲 프로젝트 🎲
-  - 프로젝트의 기초 틀을 다지는 과정은 해당 레포짓토리에 기록하나 정확한 진행은 프로젝트를 분리하여 작성할 예정입니다.
-  - <a href="https://github.com/TRTBCop/Alcoholic-frontend">Alcoholic Project</a>
-<br>
 
